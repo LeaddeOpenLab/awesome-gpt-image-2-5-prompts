@@ -2,23 +2,27 @@
 
 OpenAI ChatGPT Images 2.5 and GPT-Image-2.5 generation and editing prompts, with verified platform, model version and image results.
 
-**0 source-verified real cases** · 210 legacy / pending-verification records (not counted).
+**1 source-verified real cases** · 88 legacy / pending-verification records (not counted).
 
 ## Featured cases
 
-No cases have passed the current source-and-fit policy yet. We do not relabel legacy examples to inflate the count.
+### [Split Sunset Beach and Watercolor Poster](prompts/2104400088697081940.md)
+
+![Preview by @lovimg_com](<images/2104400088697081940-1.jpg>)
+
+By @lovimg_com · [source](<https://x.com/lovimg_com/status/2104400088697081940>)
 
 ## Find a task
 
 - [product-photography](categories/product-photography.md) — 0
-- [posters-typography](categories/posters-typography.md) — 0
+- [posters-typography](categories/posters-typography.md) — 1
 - [illustration](categories/illustration.md) — 0
 - [portraits](categories/portraits.md) — 0
 - [image-editing](categories/image-editing.md) — 0
 
 ## Recently added
 
-Awaiting verified cases.
+- 2026-09-28 · [Split Sunset Beach and Watercolor Poster](prompts/2104400088697081940.md)
 
 ## Review policy
 
