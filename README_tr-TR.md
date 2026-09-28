@@ -684,20 +684,42 @@ Ormanda bol yeşil yaprakları olan bir açıklığın fotoğrafı, son derece d
 
 <a name="prompt-2104048382268297647"></a>
 
-### Çeviri sürüyor
+### Sabah vakti beyaz bir yatakta oturan, mavi çiçek desenli saten gecelikli bir kadını tasvir eden gerçekçi portre istemi.
 
 Yazar：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Orijinal gönderi](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah vakti beyaz bir yatakta oturan, mavi çiçek desenli saten gecelikli bir kadını tasvir eden gerçekçi portre istemi.
 
 <img src="images/2104048382268297647-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Konu:
+Mavi Çiçekli Saten Sabahı
+
+Özne:
+Ekranın ortasında, beyaz yatak örtülerinin üzerinde mavi çiçek desenli saten gecelikle oturan kadın başroldedir.
+
+Kişi ve İfade:
+Küçük oval bir yüz, koyu kahverengi büyük gözler, ince kaşlar, düzgün bir burun, parlak açık pembe dudaklar. Yüzü sol alta dönük, gözleri yere eğik, uykulu ve huzurlu bir ifade. Omuzlara ve göğse doğru doğal bir şekilde dökülen, hafif dalgalı uzun koyu kahverengi saçlar.
+
+Kıyafet ve Duruş:
+Beyaz zemin üzerine mavi küçük çiçek desenli, ince askılı ve göğüs kısmı dantelli parlak saten gecelik elbise. Yatağa yan oturmuş, gövdesi hafifçe öne eğilmiş, bir bacağı bükülmüş ve elleri yatak örtüsüne yaslanmış.
+
+Arka Plan ve Işık:
+Beyaz çarşaflar ve yastıklar, açık renkli yatak odası, arkada yumuşak bir şekilde odak dışı kalmış mobilyalar. Karenin solundaki pencereden süzülen hafif sabah güneşi saçlara ve satene vuruyor.
+
+Kompozisyon ve Kamera:
+3:4 dikey kompozisyon, başın tepesinden diz altına kadar olan üçte dörtlük boyu yakalayan, yatak hizasında hafif çapraz karşıdan bir portre açısı. Kişi merkezde ve büyükçe konumlandırılmış. Bacaklar ve yatak örtüsü alt kenardan kırpılmış; eğik yüze ve mavi çiçekli satene odaklanılmış, arka plan hafifçe bulanıklaştırılmış.
+
+Doku ve Stil:
+Fotogerçekçi gerçek fotoğraf. Doğal ten ve saç dokusu, giysinin kumaşı ve etraftaki eşyalar yüksek çözünürlükte; beyaz, mavi ve açık ten tonlarının sunduğu temiz sabah atmosferi korunmuş.
+
+Negatif:
+Bakışın kameraya yönelmesi; mavi çiçekli satenin çıkarılması
 ```
 
 [↑ Kategorilere dön](#catalog)

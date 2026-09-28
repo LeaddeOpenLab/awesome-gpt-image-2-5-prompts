@@ -684,20 +684,42 @@ Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
 
 <a name="prompt-2104048382268297647"></a>
 
-### Tradução em andamento
+### Prompt de retrato fotorrealista que retrata uma mulher de camisola de cetim com estampa floral azul sentada em uma cama branca pela manhã.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato fotorrealista que retrata uma mulher de camisola de cetim com estampa floral azul sentada em uma cama branca pela manhã.
 
 <img src="images/2104048382268297647-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tema:
+Manhã de cetim com estampa floral azul
+
+Sujeito:
+No centro da imagem, a protagonista é uma mulher sentada sobre a roupa de cama branca usando uma camisola de cetim com padrão floral azul.
+
+Pessoa e expressão:
+Rosto oval pequeno, grandes olhos castanho-escuros, sobrancelhas finas, nariz bem desenhado, lábios rosa-claros viçosos. Rosto voltado para o canto inferior esquerdo, olhar baixo com uma expressão sonolenta e serena. Cabelos longos castanho-escuros levemente ondulados, caindo naturalmente sobre os ombros e o colo.
+
+Vestimenta e pose:
+Vestido slip dress de cetim acetinado e brilhante em fundo branco com pequenas flores azuis, alças finas e renda no decote. Sentada de lado na cama com a parte superior do corpo levemente inclinada para a frente, uma perna dobrada e as mãos apoiadas sobre os lençóis.
+
+Fundo e iluminação:
+Lençóis e travesseiros brancos, quarto em tons claros e móveis suavemente desfocados ao fundo. Uma suave luz matinal entra pela janela à esquerda do quadro, incidindo sobre os cabelos e o cetim.
+
+Composição e câmera:
+Composição vertical 3:4, enquadramento de três quartos desde o topo da cabeça até abaixo dos joelhos capturado com câmera em ângulo diagonal frontal na altura da cama. A figura está posicionada no centro e com destaque. Pernas e roupa de cama recortadas na borda inferior, foco nítido no rosto inclinado e no cetim floral azul, fundo ligeiramente desfocado.
+
+Textura e estilo:
+Fotografia real e fotorrealista. Pele e cabelos naturais, textura das roupas e objetos ao redor em alta definição, preservando uma paleta matinal limpa de branco, azul e pele clara.
+
+Negativo:
+Olhar voltado para a câmera; omissão do cetim floral azul
 ```
 
 [↑ Voltar às categorias](#catalog)

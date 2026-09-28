@@ -684,20 +684,42 @@ Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliat
 
 <a name="prompt-2104048382268297647"></a>
 
-### Traduzione in corso
+### Prompt per ritratto realistico che raffigura una donna in sottoveste di raso a fiori blu seduta su un letto bianco al mattino.
 
 Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto realistico che raffigura una donna in sottoveste di raso a fiori blu seduta su un letto bianco al mattino.
 
 <img src="images/2104048382268297647-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Tema:
+Mattina in raso a fiori blu
+
+Soggetto principale:
+Al centro dell'inquadratura, una donna seduta sulla biancheria da letto bianca che indossa una sottoveste di raso a fiori blu è la protagonista.
+
+Persona ed espressione:
+Piccolo viso ovale, grandi occhi castano scuro, sopracciglia sottili, naso regolare, labbra rosa tenue lucide. Viso rivolto verso il basso a sinistra, sguardo abbassato con un'espressione assonnata e serena. Lunghi capelli castano scuro morbidamente ondulati, che scendono con naturalezza su spalle e décolleté.
+
+Abbigliamento e posa:
+Sottoveste in raso lucido su fondo bianco con piccoli fiori blu, spalline sottili e pizzo sul petto. Seduta di lato sul letto con il busto leggermente inclinato in avanti, una gamba piegata e le mani adagiate sulle lenzuola.
+
+Sfondo e luce:
+Lenzuola e cuscini bianchi, camera da letto dai toni chiari, arredi morbidamente sfocati sullo sfondo. Una tenue luce mattutina entra dalla finestra a sinistra dell'inquadratura, illuminando i capelli e il raso.
+
+Composizione e macchina da presa:
+Composizione verticale 3:4, ritratto a figura per tre quarti dalla sommità del capo a sotto le ginocchia, ripreso con la fotocamera ad altezza letto in prospettiva diagonale frontale. Il soggetto è posizionato grande e al centro. Gambe e coperte tagliate dal bordo inferiore, messa a fuoco sul volto chino e sul raso a fiori blu, con sfondo leggermente sfocato.
+
+Texture e stile:
+Fotografia reale e fotorealistica. Pelle e capelli naturali, texture dei tessuti ed elementi circostanti ad altissima definizione, mantenendo una palette mattutina pulita di bianco, blu e carnagione chiara.
+
+Negativo:
+Sguardo rivolto verso l'obiettivo; omissione del raso a fiori blu
 ```
 
 [↑ Torna alle categorie](#catalog)

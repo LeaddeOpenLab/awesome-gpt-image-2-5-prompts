@@ -689,20 +689,42 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2104048382268297647"></a>
 
-### Đang dịch
+### Lời nhắc chân dung chân thực mô tả một người phụ nữ mặc váy ngủ satin hoa xanh ngồi trên giường trắng vào buổi sáng.
 
 Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung chân thực mô tả một người phụ nữ mặc váy ngủ satin hoa xanh ngồi trên giường trắng vào buổi sáng.
 
 <img src="images/2104048382268297647-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ đề:
+Buổi sáng cùng lụa satin hoa lam
+
+Chủ thể:
+Trung tâm khung hình, một người phụ nữ ngồi trên bộ chăn ga gối màu trắng trong chiếc váy ngủ hai dây bằng satin hoa xanh là nhân vật chính.
+
+Nhân vật và biểu cảm:
+Khuôn mặt trái xoan nhỏ nhắn, đôi mắt to màu nâu đậm, lông mày thanh mảnh, sống mũi cân đối, đôi môi hồng nhạt căng bóng. Gương mặt hơi nghiêng về góc dưới bên trái, ánh mắt nhìn xuống với biểu cảm mơ màng, dịu dàng. Mái tóc dài màu nâu sẫm uốn lượn sóng buông xõa tự nhiên qua vai và ngực.
+
+Trang phục và tư thế:
+Váy ngủ satin bóng nền trắng in hoa nhí màu xanh, có quai dây mảnh và viền ren trước ngực. Ngồi nghiêng trên giường, thân trên hơi cúi về phía trước, một chân co lại, tay tựa nhẹ lên chăn gối.
+
+Bối cảnh và ánh sáng:
+Ga trải giường và gối màu trắng, phòng ngủ mang gam màu nhạt, phía sau là đồ nội thất mờ ảo nhẹ nhàng. Ánh nắng sớm dịu nhẹ từ cửa sổ bên trái khung hình rọi lên mái tóc và lớp vải satin.
+
+Bố cục và máy ảnh:
+Bố cục dọc 3:4, góc máy chụp chính diện chéo ngang tầm với giường, chụp chân dung 3/4 người từ đỉnh đầu đến dưới đầu gối. Nhân vật được đặt nổi bật ở trung tâm. Đôi chân và chăn gối bị cắt bớt ở cạnh dưới, lấy nét vào khuôn mặt cúi xuống và họa tiết hoa xanh trên nền satin, hậu cảnh làm mờ nhẹ.
+
+Chất cảm và phong cách:
+Ảnh chụp thực tế sống động như thật (photorealistic). Làn da và mái tóc tự nhiên, chất liệu trang phục và các vật dụng xung quanh có độ sắc nét cao, giữ vững tông màu ban mai trong trẻo của sắc trắng, sắc xanh và màu da tươi sáng.
+
+Phủ định:
+Thay đổi ánh mắt nhìn vào máy ảnh; bỏ qua vải satin hoa lam
 ```
 
 [↑ Về danh mục](#catalog)

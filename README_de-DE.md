@@ -684,20 +684,42 @@ Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
 
 <a name="prompt-2104048382268297647"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Porträt-Prompt einer Frau im blau geblümten Satin-Slipkleid, die morgens auf einem weißen Bett sitzt.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Porträt-Prompt einer Frau im blau geblümten Satin-Slipkleid, die morgens auf einem weißen Bett sitzt.
 
 <img src="images/2104048382268297647-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Thema:
+Morgen in blau geblümtem Satin
+
+Hauptmotiv:
+In der Bildmitte sitzt als Hauptfigur eine Frau in einem blau geblümten Satin-Slip-Kleid auf weißem Bettzeug.
+
+Person und Gesichtsausdruck:
+Kleines, ovales Gesicht, große dunkelbraune Augen, schmale Augenbrauen, wohlgeformte Nase, glänzende, zartrosa Lippen. Das Gesicht ist nach unten links gerichtet, mit gesenktem Blick und einem schläfrigen, ruhigen Ausdruck. Langes, dunkelbraunes Haar fällt in sanften Wellen natürlich über Schultern und Dekolleté.
+
+Kleidung und Pose:
+Glänzendes Satin-Slipdress mit weißen Grundton und kleinen blauen Blumenmustern, zarten Spaghettiträgern und Spitze am Dekolleté. Seitlich auf dem Bett sitzend, den Oberkörper leicht nach vorne gebeugt, ein Bein angewinkelt, die Hände auf das Bettzeug gelegt.
+
+Hintergrund und Licht:
+Weiße Laken und Kissen, hell gehaltenes Schlafzimmer, im Hintergrund sanft verschwommene Möbel. Durch das Fenster am linken Bildrand fällt sanftes Morgenlicht auf Haar und Satin.
+
+Komposition und Kamera:
+3:4-Hochformat, Dreiviertel-Porträt von Kopf bis unter die Knie mit leicht schräg-frontaler Kamera auf Betthöhe. Die Person ist zentral und groß im Bild platziert. Beine und Bettzeug sind am unteren Bildrand beschnitten, der Fokus liegt auf dem gesenkten Gesicht und dem blau gemusterten Satin, der Hintergrund ist dezent unscharf.
+
+Textur und Stil:
+Fotorealistische Echtfotografie. Natürliche Haut und Haare, hochauflösende Stofftexturen und umgebende Details, die die sauberen Morgenfarben aus Weiß, Blau und heller Haut beibehalten.
+
+Negativ:
+Blick zur Kamera gewandt; Auslassen des blau gemusterten Satins
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

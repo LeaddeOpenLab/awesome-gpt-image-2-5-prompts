@@ -684,20 +684,42 @@ Photo d'une clairière dans les bois avec un feuillage vert abondant, très dét
 
 <a name="prompt-2104048382268297647"></a>
 
-### Traduction en cours
+### Prompt de portrait réaliste dépeignant une femme assise sur un lit blanc le matin vêtue d'une nuisette en satin à fleurs bleues.
 
 Auteur：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publication originale](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait réaliste dépeignant une femme assise sur un lit blanc le matin vêtue d'une nuisette en satin à fleurs bleues.
 
 <img src="images/2104048382268297647-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Thème :
+Un matin en satin fleuri bleu
+
+Sujet :
+Au centre de l'image, une femme assise sur une literie blanche vêtue d'une nuisette en satin à motifs floraux bleus est le sujet principal.
+
+Personne et expression :
+Petit visage ovale, grands yeux marron foncé, sourcils fins, nez régulier, lèvres d'un rose pâle brillant. Visage tourné vers le bas à gauche, regard baissé avec une expression ensommeillée et sereine. Longs cheveux marron foncé délicatement ondulés, tombant naturellement sur les épaules et la poitrine.
+
+Tenue et pose :
+Robe nuisette en satin brillant à fond blanc ornée de petites fleurs bleues, avec de fines bretelles et de la dentelle sur le décolleté. Assise de profil sur le lit, le haut du corps légèrement penché vers l'avant, une jambe pliée, les mains posées sur les draps.
+
+Arrière-plan et lumière :
+Fraps et oreillers blancs, chambre aux tons clairs, meubles doucement floutés en arrière-plan. Une douce lumière matinale entre par la fenêtre à gauche de l'image, caressant les cheveux et le satin.
+
+Composition et cadrage :
+Composition verticale en 3:4, portrait trois-quarts du sommet de la tête jusqu'en dessous des genoux, pris avec une caméra de face en diagonale à hauteur du lit. Le personnage est centré et occupe une place importante. Les jambes et la literie sont coupées par le bord inférieur, la mise au point est faite sur le visage baissé et le satin à fleurs bleues, avec un arrière-plan légèrement flou.
+
+Texture et style :
+Photo réelle ultra-réaliste. Peau et cheveux naturels, textures des vêtements et objets environnants en haute définition, préservant une palette matinale propre composée de blanc, de bleu et de teints clairs.
+
+Négatif :
+Regard dirigé vers l'appareil photo ; omission du satin à fleurs bleues
 ```
 
 [↑ Retour aux catégories](#catalog)

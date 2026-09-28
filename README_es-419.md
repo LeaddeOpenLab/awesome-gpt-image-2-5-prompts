@@ -684,20 +684,42 @@ Foto de un claro en el bosque con mucho follaje verde, muy detallada
 
 <a name="prompt-2104048382268297647"></a>
 
-### Traducción en curso
+### Prompt de retrato fotorrealista que muestra a una mujer con un camisón de satén con estampado floral azul sentada en una cama blanca por la mañana.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato fotorrealista que muestra a una mujer con un camisón de satén con estampado floral azul sentada en una cama blanca por la mañana.
 
 <img src="images/2104048382268297647-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Tema:
+Mañana de satén con flores azules
+
+Sujeto:
+En el centro del encuadre, la protagonista es una mujer sentada sobre ropa de cama blanca con un camisón de satén con estampado floral azul.
+
+Persona y expresión:
+Rostro ovalado pequeño, grandes ojos de color café oscuro, cejas delgadas, nariz bien proporcionada y labios rosa claro brillantes. Rostro orientado hacia abajo a la izquierda, con la mirada hacia abajo y una expresión somnolienta y apacible. Cabello largo color café oscuro suavemente ondulado, cayendo con naturalidad sobre los hombros y el escote.
+
+Vesitmenta y postura:
+Vestido lencero de satén brillante sobre fondo blanco con pequeñas flores azules, tirantes delgados y encaje en el pecho. Sentada de lado en la cama con el torso ligeramente inclinado hacia adelante, una pierna flexionada y las manos apoyadas en la ropa de cama.
+
+Fondo e iluminación:
+Sábanas y almohadas blancas, recámara en tonos claros y muebles desenfocados suavemente al fondo. Una tenue luz matutina entra por la ventana a la izquierda de la toma, iluminando el cabello y el satén.
+
+Composición y cámara:
+Composición vertical 3:4, retrato de tres cuartos desde la coronilla hasta debajo de las rodillas tomado con una cámara frontal diagonal a la altura de la cama. El sujeto se ubica en el centro y de tamaño grande. Las piernas y la ropa de cama se recortan en el borde inferior, con enfoque en el rostro inclinado y el satén de flores azules, y el fondo suavemente desenfocado.
+
+Textura y estilo:
+Fotografía real y fotorrealista. Piel y cabello naturales, texturas de la ropa y elementos del entorno con gran definición, manteniendo una paleta matutina limpia de blancos, azules y piel clara.
+
+Negativo:
+Cambiar la mirada hacia la cámara; omitir el satén con flores azules
 ```
 
 [↑ Volver a categorías](#catalog)

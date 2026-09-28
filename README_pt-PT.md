@@ -684,20 +684,42 @@ Fotografia de uma clareira na floresta com muita folhagem verde, altamente detal
 
 <a name="prompt-2104048382268297647"></a>
 
-### Tradução em curso
+### Prompt de retrato fotorrealista que retrata uma mulher numa combinação de cetim com flores azuis sentada numa cama branca pela manhã.
 
 Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2104048382268297647)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato fotorrealista que retrata uma mulher numa combinação de cetim com flores azuis sentada numa cama branca pela manhã.
 
 <img src="images/2104048382268297647-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Tema:
+Manhã de cetim com flores azuis
+
+Sujeito:
+No centro da imagem, a protagonista é uma mulher sentada sobre a roupa de cama branca com uma combinação de cetim com padrão floral azul.
+
+Pessoa e expressão:
+Rosto oval pequeno, grandes olhos castanho-escuros, sobrancelhas finas, nariz bem proporcionado, lábios cor-de-rosa claro brilhantes. Rosto virado para o canto inferior esquerdo, olhar baixo com uma expressão sonolenta e serena. Cabelos compridos castanho-escuros suavemente ondulados, caindo com naturalidade sobre os ombros e o peito.
+
+Vestuário e pose:
+Vestido tipo combinação em cetim brilhante com fundo branco e pequenas flores azuis, alças finas e renda no peito. Sentada de lado na cama com a parte superior do corpo ligeiramente inclinada para a frente, uma perna dobrada e as mãos pousadas sobre a roupa de cama.
+
+Fundo e iluminação:
+Lençóis e almofadas brancas, quarto em tons claros e mobília suavemente desfocada ao fundo. Uma ténue luz matinal entra pela janela à esquerda da imagem, tocando o cabelo e o cetim.
+
+Composição e câmara:
+Composição vertical 3:4, retrato de três quartos do cimo da cabeça até abaixo dos joelhos captado com uma câmara frontal diagonal à altura da cama. O sujeito surge ao centro e de forma proeminente. Pernas e lençóis cortados na margem inferior, foco nítido no rosto inclinado e no cetim com flores azuis, com o fundo ligeiramente desfocado.
+
+Textura e estilo:
+Fotografia real e fotorrealista. Pele e cabelo naturais, textura das peças de vestuário e objetos circundantes em alta definição, conservando uma paleta matinal limpa em branco, azul e pele clara.
+
+Negativo:
+Olhar virado para a câmara; omissão do cetim com flores azuis
 ```
 
 [↑ Voltar às categorias](#catalog)
