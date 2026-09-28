@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**199** Prompt · Ultima aggiunta: **2026-09-23**
+**203** Prompt · Ultima aggiunta: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografia · Paesaggio / Natura · Pubblicato
 
 ```text
 Foto di una radura nel bosco con abbondante fogliame verde, altamente dettagliata
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2104048382268297647"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2104048382268297647)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2104048382268297647-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2104379061321490730"></a>
+
+### Traduzione in corso
+
+Autore：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Post originale](https://x.com/CyberTotal2026/status/2104379061321490730)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2104379061321490730-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2791,6 +2835,28 @@ Ritratto ad alta risoluzione di un uomo sudasiatico di 23 anni con gli occhi chi
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2104171596005167311"></a>
+
+### Traduzione in corso
+
+Autore：[@Chengzilhy](https://x.com/Chengzilhy) · [Post originale](https://x.com/Chengzilhy/status/2104171596005167311)
+
+Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Anime / Manga · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2104171596005167311.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2102633733564363002"></a>
 
@@ -5660,6 +5726,30 @@ Personaggio · Pubblicato
 
 ```text
 Usa l'immagine allegata come riferimento per il set fotografico. Mantieni il rapporto di esposizione, la direzione della luce, la consistenza dei tessuti e il ritmo compositivo; riprogetta il personaggio e la palette di colori tematica. Il personaggio deve essere un adulto, senza copiare il viso della persona di riferimento. Dopo la generazione, confrontala con l'immagine originale per verificare: l'illuminazione è stata modificata arbitrariamente, gli abiti sono stati appesantiti o la pelle è stata ritoccata risultando eccessivamente liscia?
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2104120834155856211"></a>
+
+### Traduzione in corso
+
+Autore：[@\_3912657840](https://x.com/_3912657840) · [Post originale](https://x.com/_3912657840/status/2104120834155856211)
+
+Altro · Pubblicato
+
+Post originale：[@\_3912657840](https://x.com/_3912657840) · [Post originale](https://x.com/_3912657840/status/2103775693742178353)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2104120834155856211.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**199** Prompts · Última incorporación: **2026-09-23**
+**203** Prompts · Última incorporación: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,50 @@ Fotografía · Paisaje / Naturaleza · Publicado
 
 ```text
 Foto de un claro en el bosque con abundante follaje verde, altamente detallada
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2104048382268297647"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2104048382268297647)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2104048382268297647-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2104379061321490730"></a>
+
+### Traducción en curso
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicación original](https://x.com/CyberTotal2026/status/2104379061321490730)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2104379061321490730-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2836,6 +2880,28 @@ Retrato de alta resolución de un hombre del sur de Asia de 23 años con los ojo
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2104171596005167311"></a>
+
+### Traducción en curso
+
+Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Publicación original](https://x.com/Chengzilhy/status/2104171596005167311)
+
+Cómic / Guion gráfico · Cine / Fotograma de película · Anime / Manga · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2104171596005167311.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2102633733564363002"></a>
 
@@ -5725,6 +5791,30 @@ Personaje · Publicado
 
 ```text
 Usa la imagen adjunta como referencia para el esquema fotográfico. Mantén la relación de exposición, la dirección de la luz, la textura de la tela y el ritmo de la composición; rediseña el personaje y la paleta de colores temáticos. El personaje es un adulto, no copies el rostro del personaje de referencia. Después de generar, coteja con la imagen original: ¿se ha cambiado la iluminación sin permiso, se ha engrosado la ropa o se ha suavizado la piel en exceso?
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2104120834155856211"></a>
+
+### Traducción en curso
+
+Autor：[@\_3912657840](https://x.com/_3912657840) · [Publicación original](https://x.com/_3912657840/status/2104120834155856211)
+
+Otros · Publicado
+
+Publicación original：[@\_3912657840](https://x.com/_3912657840) · [Publicación original](https://x.com/_3912657840/status/2103775693742178353)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2104120834155856211.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

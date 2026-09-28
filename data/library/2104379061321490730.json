@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:28:50.870Z",
+  "model": "image2",
+  "prompt": "主題：\n夜景ソファの黒装い\n\n主体：\n画面中央、夜景の見える現代的な部屋で黒い服を着てソファに座る女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面から少し左へ向け、視線をカメラへ合わせた落ち着いた真顔。黒い長いストレート髪を下ろし、薄い前髪と顔周りの毛束を残す。\n\n服装・ポーズ：\n黒いハイネックのノースリーブクロップドトップとウエストを絞ったウエストを絞った黒いロングスカート。低いソファへ座って上体を少し後ろへ預け、両膝を斜めに重ね、片手を座面へ置く。\n\n背景・光：\n大窓の外に都会の夜景、灰色ソファ、暗い壁と間接照明の現代的な室内。窓の柔らかな青い夜光と画面右の暖かな間接光が顔と輪郭を照らす。\n\n構図・カメラ：\n13:19の縦構図、床近くからの低い斜め正面カメラで頭頂から足元近くまでの全身を収めるポートレート。人物を右半分へ大きく配置。ソファとスカート裾を下端で自然に裁切し、顔と黒い衣装にピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、灰、青、琥珀色の夜色を保つ。\n\nネガティブ：\n立ち姿への変更；夜景と黒衣装省略",
+  "promptTranslations": {
+    "en": "Theme:\nBlack Attire on a Sofa with a Night View\n\nSubject:\nIn the center of the frame, the protagonist is a woman dressed in black, sitting on a sofa in a modern room overlooking a night view.\n\nPerson and Expression:\nA small oval face, large dark brown eyes, thin eyebrows, a well-shaped nose, and glossy pale pink lips. Her face is turned slightly to the left from the front, with a calm, serious expression as her gaze meets the camera. Long, straight black hair worn down, with thin bangs and strands left framing her face.\n\nClothing and Pose:\nA black high-neck sleeveless cropped top and a cinched-waist cinched-waist long black skirt. Sitting on a low sofa with her upper body leaning back slightly, her knees crossed diagonally, and one hand placed on the sofa cushion.\n\nBackground and Lighting:\nA city night view outside large windows, a gray sofa, and a modern interior with dark walls and indirect lighting. Soft blue night light from the window and warm indirect light from the right side of the frame illuminate her face and contours.\n\nComposition and Camera:\nA 13:19 vertical composition, shot from a low, diagonal front angle near the floor, capturing a full-body portrait from the top of the head to near the feet. The subject is placed prominently in the right half of the frame. The sofa and skirt hem are naturally cropped at the bottom edge, with sharp focus on the face and black outfit, and a lightly blurred background.\n\nTexture and Style:\nPhotorealistic real-life photography. High definition for the natural skin and hair, clothing materials, and surrounding props, maintaining a nighttime color palette of black, gray, blue, and amber.\n\nNegative:\nChange to a standing pose; omitting the night view and black outfit"
+  },
+  "summaryTranslations": {
+    "en": "Realistic portrait prompt of a woman wearing a black sleeveless top, sitting on a sofa in a modern room with a night view."
+  },
+  "translationVersion": 2,
+  "summary": "夜景の見えるモダンな部屋のソファに座る、黒いノースリーブトップを着た女性のリアルポートレートプロンプト。",
+  "summaryEn": "Prompt for generating a realistic portrait of a woman in a black sleeveless crop top sitting on a sofa with a city night view.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104379061321490730",
+    "canonicalUrl": "https://x.com/CyberTotal2026/status/2104379061321490730",
+    "author": {
+      "username": "CyberTotal2026",
+      "displayName": "Prompt アトリエ｜AI画像プロンプト",
+      "profileUrl": "https://x.com/CyberTotal2026"
+    },
+    "publishedAt": "2026-09-28T01:14:00.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "ja",
+    "originalText": "街の灯りが静かになる頃、黒をまとって今日をゆっくりほどく🌃🖤✨\n\n#AIart #AI写真 #夜景ルーム\n\n【GPT Image2プロンプト】\n\n主題：\n夜景ソファの黒装い\n\n主体：\n画面中央、夜景の見える現代的な部屋で黒い服を着てソファに座る女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面から少し左へ向け、視線をカメラへ合わせた落ち着いた真顔。黒い長いストレート髪を下ろし、薄い前髪と顔周りの毛束を残す。\n\n服装・ポーズ：\n黒いハイネックのノースリーブクロップドトップとウエストを絞ったウエストを絞った黒いロングスカート。低いソファへ座って上体を少し後ろへ預け、両膝を斜めに重ね、片手を座面へ置く。\n\n背景・光：\n大窓の外に都会の夜景、灰色ソファ、暗い壁と間接照明の現代的な室内。窓の柔らかな青い夜光と画面右の暖かな間接光が顔と輪郭を照らす。\n\n構図・カメラ：\n13:19の縦構図、床近くからの低い斜め正面カメラで頭頂から足元近くまでの全身を収めるポートレート。人物を右半分へ大きく配置。ソファとスカート裾を下端で自然に裁切し、顔と黒い衣装にピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、灰、青、琥珀色の夜色を保つ。\n\nネガティブ：\n立ち姿への変更；夜景と黒衣装省略",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS51gLLbMAA7ZsM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS51gLLbMAA7ZsM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 744
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CyberTotal2026/status/2104379061321490730",
+  "coverUrl": "https://pbs.twimg.com/media/HS51gLLbMAA7ZsM.jpg",
+  "coverPath": "images/2104379061321490730-1.jpg",
+  "imagePaths": [
+    "images/2104379061321490730-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS51gLLbMAA7ZsM",
+    "x-post:2104379061321490730"
+  ],
+  "analysis": {
+    "summary": "夜景の見えるモダンな部屋のソファに座る、黒いノースリーブトップを着た女性のリアルポートレートプロンプト。",
+    "summaryEn": "Prompt for generating a realistic portrait of a woman in a black sleeveless crop top sitting on a sofa with a city night view.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated image matches the woman in a black sleeveless top sitting on a grey couch before a modern night window scene, with low-angle portrait framing."
+    },
+    "videoQuality": null,
+    "originalPrompt": "主題：\n夜景ソファの黒装い\n\n主体：\n画面中央、夜景の見える現代的な部屋で黒い服を着てソファに座る女性が主役。\n\n人物・表情：\n小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面から少し左へ向け、視線をカメラへ合わせた落ち着いた真顔。黒い長いストレート髪を下ろし、薄い前髪と顔周りの毛束を残す。\n\n服装・ポーズ：\n黒いハイネックのノースリーブクロップドトップとウエストを絞ったウエストを絞った黒いロングスカート。低いソファへ座って上体を少し後ろへ預け、両膝を斜めに重ね、片手を座面へ置く。\n\n背景・光：\n大窓の外に都会の夜景、灰色ソファ、暗い壁と間接照明の現代的な室内。窓の柔らかな青い夜光と画面右の暖かな間接光が顔と輪郭を照らす。\n\n構図・カメラ：\n13:19の縦構図、床近くからの低い斜め正面カメラで頭頂から足元近くまでの全身を収めるポートレート。人物を右半分へ大きく配置。ソファとスカート裾を下端で自然に裁切し、顔と黒い衣装にピント、背景は軽くぼかす。\n\n質感・スタイル：\nフォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、灰、青、琥珀色の夜色を保つ。\n\nネガティブ：\n立ち姿への変更；夜景と黒衣装省略",
+    "sourceRange": {
+      "start": 73,
+      "end": 605
+    },
+    "translations": {
+      "zh": "主题：夜景沙发上的黑衣人\n主体：画面中央，现代夜景房间中身穿黑衣坐在沙发上的女性。\n人物神态：鹅蛋脸，深褐色大眼，细眉挺鼻，淡粉嘴唇，沉静正视镜头，黑长直发带薄刘海。\n服装体态：黑色高领无袖短上衣搭配黑色裙装，半倚在低矮灰色沙发上。\n背景光影：大落地窗外都市夜景，室内昏暗配暖色间接光与冷色夜光。\n构图风格：低角度竖构图写实摄影，突出主体质感与夜景氛围。\n负向提示：改为站立姿态；缺少夜景与黑衣。",
+      "en": "Subject: Black outfit on night sofa.\nMain: A woman in black sitting on a sofa in a modern room overlooking a night cityscape.\nPerson: Oval face, dark brown eyes, black straight hair with bangs, calm direct gaze.\nOutfit & Pose: Black high-neck sleeveless crop top with black skirt, sitting leaning back slightly on a low grey sofa.\nBackground & Lighting: City night view through large window, moody indoor ambient lighting.\nComposition: Low-angle vertical photorealistic portrait."
+    },
+    "targetModels": [
+      "image2"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography generation prompt for portraiture",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

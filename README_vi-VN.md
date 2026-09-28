@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**199** Prompt · Bổ sung mới nhất: **2026-09-23**
+**203** Prompt · Bổ sung mới nhất: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,50 @@ Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ```text
 Ảnh chụp một bãi đất trống trong rừng với nhiều tán lá xanh tươi, rất chi tiết
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2104048382268297647"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2104048382268297647)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2104048382268297647-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2104379061321490730"></a>
+
+### Đang dịch
+
+Tác giả：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Bài gốc](https://x.com/CyberTotal2026/status/2104379061321490730)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2104379061321490730-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2836,6 +2880,28 @@ Bức chân dung độ phân giải cao của một người đàn ông Nam Á 2
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2104171596005167311"></a>
+
+### Đang dịch
+
+Tác giả：[@Chengzilhy](https://x.com/Chengzilhy) · [Bài gốc](https://x.com/Chengzilhy/status/2104171596005167311)
+
+Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Anime / Manga · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2104171596005167311.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2102633733564363002"></a>
 
@@ -5701,6 +5767,30 @@ Nhân vật · Đã xuất bản
 
 ```text
 Sử dụng hình ảnh đính kèm làm tài liệu tham khảo cho phương án chụp ảnh. Giữ nguyên mối quan hệ phơi sáng, hướng ánh sáng, chất liệu vải và nhịp điệu bố cục; thiết kế lại nhân vật và phối màu chủ đề. Nhân vật là người lớn, không sao chép khuôn mặt của người trong ảnh tham khảo. Sau khi tạo xong, hãy đối chiếu kiểm tra với ảnh gốc: Có tự ý thay đổi cách bố trí ánh sáng, làm dày trang phục hoặc chỉnh sửa da mịn màng quá mức hay không?
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2104120834155856211"></a>
+
+### Đang dịch
+
+Tác giả：[@\_3912657840](https://x.com/_3912657840) · [Bài gốc](https://x.com/_3912657840/status/2104120834155856211)
+
+Khác · Đã xuất bản
+
+Bài gốc：[@\_3912657840](https://x.com/_3912657840) · [Bài gốc](https://x.com/_3912657840/status/2103775693742178353)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2104120834155856211.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

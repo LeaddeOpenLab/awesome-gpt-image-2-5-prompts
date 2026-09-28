@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**199** Prompts · Latest addition: **2026-09-23**
+**203** Prompts · Latest addition: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -690,6 +690,94 @@ Photography · Landscape / Nature · Published
 
 ```text
 Photo of a clearing in the woods with lots of green foliage, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2104048382268297647"></a>
+
+### A realistic portrait prompt depicting a woman in a blue floral satin slip sitting on a white bed in the morning.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2104048382268297647)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic portrait prompt depicting a woman in a blue floral satin slip sitting on a white bed in the morning.
+
+<img src="images/2104048382268297647-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+Blue Floral Satin Morning
+
+Subject / Main Character:
+Centered in the frame, a woman sitting on white bedding wearing a blue floral satin slip is the main subject.
+
+Person & Expression:
+A small oval face, large dark brown eyes, slender eyebrows, a well-defined nose, and glossy pale pink lips. Her face is turned slightly downward to the left, looking down with a sleepy, serene expression. Long dark brown hair has loose waves, naturally flowing over her shoulders and chest.
+
+Clothing & Pose:
+A glossy satin slip dress with a blue small floral pattern on a white base, thin shoulder straps, and lace at the neckline. Sitting sideways on the bed with her upper body leaning slightly forward, one leg bent, and hands resting gently on the bedding.
+
+Background & Light:
+White sheets and pillows, a soft-toned bedroom, softly blurred furniture in the background. Pale morning sunlight streams in from a window on the left side of the frame, illuminating her hair and the satin.
+
+Composition & Camera:
+A 3:4 vertical composition, portrait framing from the top of the head to below the knees taken with a diagonal front-facing camera at bed height. The subject is prominently positioned in the center. The legs and bedding are cropped at the bottom edge, sharp focus on the cast-down face and blue floral satin, with the background lightly blurred.
+
+Texture & Style:
+Photorealistic real-life photography. Natural skin and hair, high-definition textures of the clothing material and surrounding items, preserving clean morning tones of white, blue, and pale skin color.
+
+Negative:
+Looking at the camera; omitting blue floral satin
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2104379061321490730"></a>
+
+### Realistic portrait prompt of a woman wearing a black sleeveless top, sitting on a sofa in a modern room with a night view.
+
+Author：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Source](https://x.com/CyberTotal2026/status/2104379061321490730)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic portrait prompt of a woman wearing a black sleeveless top, sitting on a sofa in a modern room with a night view.
+
+<img src="images/2104379061321490730-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Theme:
+Black Attire on a Sofa with a Night View
+
+Subject:
+In the center of the frame, the protagonist is a woman dressed in black, sitting on a sofa in a modern room overlooking a night view.
+
+Person and Expression:
+A small oval face, large dark brown eyes, thin eyebrows, a well-shaped nose, and glossy pale pink lips. Her face is turned slightly to the left from the front, with a calm, serious expression as her gaze meets the camera. Long, straight black hair worn down, with thin bangs and strands left framing her face.
+
+Clothing and Pose:
+A black high-neck sleeveless cropped top and a cinched-waist cinched-waist long black skirt. Sitting on a low sofa with her upper body leaning back slightly, her knees crossed diagonally, and one hand placed on the sofa cushion.
+
+Background and Lighting:
+A city night view outside large windows, a gray sofa, and a modern interior with dark walls and indirect lighting. Soft blue night light from the window and warm indirect light from the right side of the frame illuminate her face and contours.
+
+Composition and Camera:
+A 13:19 vertical composition, shot from a low, diagonal front angle near the floor, capturing a full-body portrait from the top of the head to near the feet. The subject is placed prominently in the right half of the frame. The sofa and skirt hem are naturally cropped at the bottom edge, with sharp focus on the face and black outfit, and a lightly blurred background.
+
+Texture and Style:
+Photorealistic real-life photography. High definition for the natural skin and hair, clothing materials, and surrounding props, maintaining a nighttime color palette of black, gray, blue, and amber.
+
+Negative:
+Change to a standing pose; omitting the night view and black outfit
 ```
 
 [↑ Back to categories](#catalog)
@@ -4120,6 +4208,262 @@ High-resolution portrait of a 23-year-old South Asian man with eyes closed and h
 
 ## Cinematic / Film Still
 
+<a name="prompt-2104171596005167311"></a>
+
+### Detailed action choreography, dynamic cinematography, and global animation quality settings for a 30-second high-speed cold-weapon duel between a red-clad swordsman and a white-haired swordsman across rooftops and courtyards in an ancient city.
+
+Author：[@Chengzilhy](https://x.com/Chengzilhy) · [Source](https://x.com/Chengzilhy/status/2104171596005167311)
+
+Comic / Storyboard · Cinematic / Film Still · Anime / Manga · Published
+
+**Summary:** Detailed action choreography, dynamic cinematography, and global animation quality settings for a 30-second high-speed cold-weapon duel between a red-clad swordsman and a white-haired swordsman across rooftops and courtyards in an ancient city.
+
+<img src="covers/2104171596005167311.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+【Global · Quality Settings】
+
+30 seconds, 16:9, 60fps.
+Dark fantasy thick impasto painted animation, coarse brushstrokes, hard-edged light and shadow, generalized color blocks, and clear silhouettes. Characters, weapons, and architecture are unified into a painted animation with three-dimensional space, with brushstrokes stably adhering to surfaces.
+
+During high-speed motion, character faces, sword-wielding hands, physical blades, and offensive-defensive relations remain clearly discernible throughout.
+
+Image 1 binds the scene: a magnificent ancient city under cold blue-gray dark clouds, massive white city walls, tiered deep gray tiled roofs, a central wide street, and faint warm lanterns. Roof surfaces and stone flagstones are wet after rain.
+
+The combat route is fixed as:
+Rooftop chase and slash → Rebound off white wall → Clash in building courtyard → Decisive showdown on high roof ridge.
+
+Distant city walls, rooftops, and architectural orientations remain continuous throughout; spatial jumps are prohibited.
+
+Image 2 binds Character A's appearance,
+
+Image 3 binds Character B's appearance,
+
+Cinematic detail, authentic metal materials, global illumination, volumetric clouds and mist, contact shadows, high dynamic range.
+
+Metal blade reflections are sharp; blade clashes generate realistic metal friction, sparks, and subtle edge vibrations.
+
+Overall color palette is dominated by ink black, gray-cyan, cold white, and dark brown.
+
+The sense of speed mainly derives from rapid body movements, continuous directional changes, high-speed background passing, foreground parallax, garment inertia, and flying debris.
+
+Broken roof tiles, wood chips, and stone fragments are thrown along the vector of force, then drop, collide, and bounce under the influence of gravity.
+
+Hair, coat hems, and chains produce realistic lag as the body rotates.
+
+All architectural damage persists; automatic restoration is prohibited.
+
+【Character Settings】
+
+A | Red-clad long-haired swordsman.
+Adopts the facial structure, high-tied long hair, deep red outer robe, light-colored sash, black wide trousers, leg wraps, and footwear from Image 2.
+Wields the curved metal saber from Image 3.
+Retains the dark blade surface, warm gold rim guard, and dark wrapped hilt.
+Right hand primary grip.
+Two hands gripping the same hilt are permitted during heavy slashes, blade presses, and powerful parries.
+Scabbard remains fixed at the waist throughout.
+
+B | White-haired swordsman.
+Adopts the white short hair, cyan-green eyes, black inner robe, white sleeveless outer robe, sash, and body build from Image 4.
+Wields the silver-bright curved saber from Image 5.
+Retains the cold white edge, corresponding guard, light-colored wrapped hilt, and the chain with pendant at the pommel.
+The chain remains permanently connected to the hilt, swinging naturally according to acceleration.
+
+【Core Action Rules】
+
+Pure two-person martial arts duel.
+The very first frame already enters combat state; no standing poses, no standoff build-up.
+The first three seconds must execute:
+B slashes mid-air → A steps sideways across tiles to counter-slash → B follows down landing in close-quarters continuous offensive pressure.
+The entire piece revolves around realistic slashing, parrying, deflecting, dodging, force redirection, counter-cutting, chase-slashes, and footwork repositioning.
+Core tempo:
+Slash → Parry → Counter-cut → Deflect → Chase-slash → Side-dodge → Return slash.
+Standard sections maintain 4–6 total offensive-defensive actions per second between both combatants.
+Short burst sections permit 6–8 beats per second.
+All actions are brief, crisp, and continuous.
+Short blade wind-ups, rapid hip rotation, immediate trajectory change upon contact.
+The recovery path of the previous strike directly becomes the starting point of the next.
+Resetting into poses after each attack is prohibited.
+Continue attacking during positional transitions.
+Continue swinging blades the instant feet land.
+Immediately redirect force to counter-attack after parrying.
+Ordinary blade parries only produce brief shoulder-arm deflections and slight footwork shifts.
+Only critical heavy slashes may cause noticeable knockback, loss of balance, or significant positional shifts.
+Maintain a striking-range distance throughout.
+Long-term separation where both parties swing at empty air is prohibited.
+
+【Maneuver Methods】
+
+A maneuvers mainly via:
+Stepping across tiles, wall kicks, short hops, slide steps, hip turns, and changing direction using blade collision momentum.
+B maneuvers mainly via:
+Lateral tile stepping, short-distance bounds, wall rebounds, mid-air body turns, and landing return slashes.
+Traceless teleportation is prohibited.
+Supportless floating or hovering is prohibited.
+Prolonged character suspension in air is prohibited.
+Every jump must have a clear takeoff point, aerial trajectory, and landing spot.
+
+【Cinematography Rules】
+
+Primarily two-shot medium shots and full-shot high-speed side tracking.
+The camera continuously tracks the real characters' movement directions.
+Brief whip pans are permitted to track rapid trajectory shifts, but must immediately re-lock onto both subjects.
+Three dynamic close-ups:
+2–3 seconds: First continuous clash of the blades.
+14–15 seconds: Wrist roll, blade deflection, counter-cut.
+27–28 seconds: Final guard broken.
+Characters inside close-ups continue moving.
+Stopping to showcase faces or weapons is prohibited.
+The end of the shot naturally returns to a two-character framing along the direction of character motion.
+During critical heavy slashes, briefly widen framing, then immediately pull back into the next round of close combat.
+All shots maintain second-by-second action continuity.
+
+【30-Second Combat Structure】
+
+0–3s | High-Speed Engagement
+Both enter the rooftop from a high elevation.
+B proactively slashes toward A.
+A side-steps on roof tiles and counter-slashes.
+After their first blade clash, they do not disengage, immediately executing a succession of horizontal slashes, vertical blocks, upward counter-slashes, blade deflections, and pursuit strikes.
+The camera rushes in close to the blades and wielding hands, then pulls back to a two-shot medium shot.
+
+3–8s | High-Speed Rooftop Combos
+A performs a horizontal sweep, reverse-grip diagonal slash, and low upward slash.
+B executes consecutive parries, force redirections, and return slashes.
+Both move along the roof ridge while clashing.
+Tiles underfoot shatter from impact.
+B's low-line attack forces A to kick off the wall and leap up.
+A delivers a downward mid-air slash.
+B raises blade to meet the strike.
+Both use the blade impact to change movement direction.
+
+8–12s | White Wall Rebound
+Both descend toward the white wall.
+A touches the wall and kicks off instantly, turning into a diagonal slash.
+B parries and executes a horizontal cut.
+A ducks under to evade and returns a backhand strike.
+Both descend rapidly down the roof slope.
+The clash continues the instant feet touch down.
+Pauses upon landing are prohibited.
+
+12–16s | First Heavy Strike
+A steps in with a two-handed heavy cleave.
+B angles blade upward to intercept.
+Both briefly lose balance, then instantly recover.
+B unleashes consecutive horizontal slashes, low scoops, and reverse-grip downward presses.
+A executes an angled block, hip-pull retreat, blade deflection, and counter-cut.
+14–15s enters a dynamic close-up:
+A's blade slides along B's blade; wrist rotates into a counter-cut.
+B pulls the elbow to deflect, then presses down into a slash.
+A rolls the wrist to intercept.
+The lens clearly depicts the grip, sliding blades, wrist trajectory changes, and shifts in physical center of gravity.
+
+16–20s | Courtyard Clash
+Both cross the gap between rooftops.
+Blade clashes continue uninterrupted in mid-air.
+Upon dropping into the courtyard, they immediately slide-step and continue attacking.
+A swings horizontally.
+B parries and cuts upward.
+A deflects.
+A spins into a downward pressing slash.
+B dodges sideways and cuts back.
+Pooled water is displaced by footwork and impacts.
+Paving stones, tiles, and walls gradually incur realistic destruction.
+
+20–24s | High-Speed Counter-Offensive
+Both maneuver around cracked stone pavers, sustaining close-range blade exchanges.
+A counter-cuts.
+B parries and slips the blade.
+B scoops low.
+A dodges sideways.
+A thrusts upward.
+B blocks diagonally.
+B follows with a downward pressing assault.
+A uses a low pillar to leap up into a diving slash.
+B receives the impact and immediately cuts back.
+A deflects.
+Continuous blade contact is maintained throughout their ascent and descent.
+
+24–27s | Pre-Decisive Combos
+Both return to the high roof ridge.
+B steps across tiles with a diagonal slash.
+A deflects and cuts horizontally.
+B redirects force to counter-attack.
+Both trade multiple rapid rounds of horizontal slashes, diagonal cleaves, low scoops, and reverse-grip strikes.
+A begins continuously shifting attack angles:
+High-line slash → Low-line upward scoop → Horizontal counter-cut → Another line change.
+B is forced to continuously adjust defensive angles.
+Both sets of footwork draw closer and closer to the edge of the roof slope.
+
+27–28s | Final Guard Break
+Dynamic close-up moves into blades and gripping hands.
+A first delivers a horizontal strike forcing B into a guard.
+At the instant of impact, A rapidly changes blade trajectory.
+A executes a final powerful two-handed diagonal cleave.
+B brings the blade back to defend.
+The two physical sabers collide solidly.
+B's blade is forced outward away from the body.
+Shoulders and arms sink.
+Footing loses stability.
+The camera rapidly pulls back along the impact vector into a two-shot medium framing.
+A maintains a grounded, stable stance.
+B stumbles backward repeatedly.
+
+28–29s | Defeat
+B retreats and falls onto the adjacent lower roof slope.
+Roof tiles slide and flip underfoot.
+B ultimately drops to one knee, propping the body up with the saber.
+Remains conscious.
+Ceases attacking.
+A remains standing on the higher roof ridge ahead, smoothly recovering blade posture.
+
+29–30s | Conclusion
+A stands.
+Blade tip hangs downward naturally.
+Gaze directed toward B kneeling on one knee behind.
+A's victory is clear.
+Neither party attacks further.
+Broken tiles and stone chips continue falling, colliding, and bouncing.
+Hems, long hair, and chains retain residual inertial movement from the combat's end.
+The camera slowly dollies back and to the side.
+Leaving only the sound of wind, metallic resonance, and falling debris.
+
+【Audio】
+
+Retain only:
+Environmental wind, tile-stepping sounds, footsteps, blade whooshes, metal impact clashes, blade scraping, breaking tiles, splintering wood and stone, falling debris, and natural breathing.
+Every contact of physical blades must have a clear, crisp, directional metallic impact sound.
+Prolonged low rumbles masking combo beats are prohibited.
+No dialogue.
+No voiceover.
+No skill name announcements.
+No battle cries.
+No background music.
+No subtitles.
+
+【Negative Prompts】
+
+Prohibit all fire, frost, lightning, energy, sword auras, blade beams, light blades, energy waves, dragon-shaped attacks, magic circles, explosions, shockwaves, elemental attacks, and supernatural VFX.
+Prohibit weapon colored trails, glowing edges, energy outlines, or elemental afterimages.
+Prohibit independent dragon creatures.
+Prohibit summon entities.
+Prohibit slow swings, lengthy wind-ups, charging up while standing still, and pauses/resets after strikes.
+Prohibit prolonged weapon pushing.
+Prohibit extended strength stalemates.
+Prohibit both parties swinging weapons independently without an offensive-defensive relationship.
+Prohibit slow motion, bullet time, frame hitches, and freeze frames.
+Prohibit static facial close-ups, static weapon showcases.
+Prohibit a third character.
+Prohibit character duplication.
+Prohibit character appearance drift.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2102633733564363002"></a>
 
 ### A set of realistic cinematic prompts themed around megalophobia, featuring scenes of spaceships descending upon a rural village, colossal deep-sea creatures, an airborne giant whale, and an immense sea turtle.
@@ -7001,6 +7345,30 @@ Character · Published
 
 ```text
 Use the attached image as a photography reference. Preserve its exposure balance, lighting direction, fabric textures, and compositional rhythm; redesign the character and the theme's color palette. The character is an adult, do not replicate the face of the reference figure. After generation, check against the original image: Did you arbitrarily alter the lighting setup, thicken the clothing, or make the skin overly airbrushed/smooth?
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2104120834155856211"></a>
+
+### An 8-second video prompt displaying &quot;おなかすいた&quot; with over-the-top motion graphics.
+
+Author：[@\_3912657840](https://x.com/_3912657840) · [Source](https://x.com/_3912657840/status/2104120834155856211)
+
+Other · Published
+
+Source：[@\_3912657840](https://x.com/_3912657840) · [Source](https://x.com/_3912657840/status/2103775693742178353)
+
+**Summary:** An 8-second video prompt displaying &quot;おなかすいた&quot; with over-the-top motion graphics.
+
+<img src="covers/2104120834155856211.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an 8-second video where the text "おなかすいた" appears using super stylish, over-the-top motion graphics
 ```
 
 [↑ Back to categories](#catalog)

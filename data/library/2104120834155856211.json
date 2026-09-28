@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:31:09.922Z",
+  "model": "gpt-image",
+  "prompt": "めっちゃオシャレで過剰なモーショングラフィックスで「おなかすいた」という文字が出現する8秒の映像を作って",
+  "promptTranslations": {
+    "en": "Create an 8-second video where the text \"おなかすいた\" appears using super stylish, over-the-top motion graphics"
+  },
+  "summaryTranslations": {
+    "en": "An 8-second video prompt displaying \"おなかすいた\" with over-the-top motion graphics."
+  },
+  "translationVersion": 2,
+  "summary": "過剰なモーショングラフィックスで「おなかすいた」を表示する8秒の映像プロンプト。",
+  "summaryEn": "Prompt for an 8-second video displaying 'I'm hungry' using exaggerated motion graphics.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2103775693742178353",
+      "canonicalUrl": "https://x.com/_3912657840/status/2103775693742178353",
+      "author": {
+        "username": "_3912657840",
+        "displayName": "角煮星丸",
+        "profileUrl": "https://x.com/_3912657840"
+      },
+      "originalText": "Opus5.5の動画って四隅に枠を作りがちですね\nというかOpusの作る安っぽい音楽も好きです https://t.co/sZXnBcJnN6"
+    },
+    "id": "2104120834155856211",
+    "canonicalUrl": "https://x.com/_3912657840/status/2104120834155856211",
+    "author": {
+      "username": "_3912657840",
+      "displayName": "角煮星丸",
+      "profileUrl": "https://x.com/_3912657840"
+    },
+    "publishedAt": "2026-09-27T08:07:54.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "ja",
+    "originalText": "今、Opus5.5で生成された映像がたくさんタイムラインに流れていて、何か似た傾向があるなと思っていたので\n「もしかして日本人のパーソナライズして映像を作ってますか？」とOpus5.5に聞いてみました。\nやっぱり「日本語で入力しているから日本人向けに合わせたテイストの映像が作成されている」っていう返答で、これは予想通りでした。\n\nこれは結構注視しないといけない点。\n\nSeedanceもGPTimageも「いいかんじのアウトプットをする」と言われています。\nもちろんモデルの性能が上がったこともあるのですが、モデル側が人間の好みそうなスタイルに意図的に寄せたアウトプットをしているということです。\nその方が性能がいいように見えるからです。\n\nなので、スタイルは人間側でコントロールしないと、Opus5.5がチューニングしたよさそうなデザインしか吐き出しません。これは最近のモデルはどれもそうだと思います。もしかしたら、ニッチなデザインを作りたい時には邪魔になるかもしれません。\n\nこれは液晶テレビでも昔から起こっている話で、家電量販店のテレビの設定は大体が発色とコントラストを上げた「ダイナミック」な設定になっていて、本来より極端に彩度やコントラストが高い設定にされています。\n正しい出力が出来るテレビよりも、綺麗に見えるテレビと並んで見比べた時に時に売れるからです。\n\n試しに英語のプロンプトで打って出てきた映像を付けますね。\n\nこちらもめっちゃドパってますが\nめっちゃオシャレで過剰なモーショングラフィックスで「おなかすいた」という文字が出現する8秒の映像を作って\nというプロンプトなのでそこは私のせいです！",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTNTfN8bsAAWI9l.png",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTNTfN8bsAAWI9l.png"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/_3912657840/status/2104120834155856211",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104119548584845312/img/KzpaGFHObzO6DsR4.jpg",
+        "analysisUrl": "https://x.com/_3912657840/status/2104120834155856211"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/_3912657840/status/2104120834155856211",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2103775335309598720/img/Oc_gORmU232nPk4x.jpg",
+        "analysisUrl": "https://x.com/_3912657840/status/2104120834155856211",
+        "sourcePostId": "2103775693742178353"
+      }
+    ],
+    "metrics": {
+      "likeCount": 126,
+      "repostCount": 19,
+      "replyCount": 1,
+      "quoteCount": 3,
+      "viewCount": 21937
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/_3912657840/status/2104120834155856211",
+  "coverUrl": "https://pbs.twimg.com/media/HTNTfN8bsAAWI9l.png",
+  "coverPath": "covers/2104120834155856211.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HTNTfN8bsAAWI9l",
+    "x-video:2104119548584845312",
+    "x-video:2103775335309598720",
+    "x-post:2104120834155856211",
+    "x-post:2103775693742178353"
+  ],
+  "analysis": {
+    "summary": "過剰なモーショングラフィックスで「おなかすいた」を表示する8秒の映像プロンプト。",
+    "summaryEn": "Prompt for an 8-second video displaying 'I'm hungry' using exaggerated motion graphics.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附带视频展示了约8秒时长、风格夸张丰富的动态排版动画，并准确呈现了‘おなかすいた’文字。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "めっちゃオシャレで過剰なモーショングラフィックスで「おなかすいた」という文字が出現する8秒の映像を作って",
+    "sourceRange": {
+      "start": 633,
+      "end": 685
+    },
+    "translations": {
+      "zh": "制作一个8秒的视频，以极其时尚且夸张的动态图形呈现出“おなかすいた”（我好饿）字样",
+      "en": "Create an 8-second video featuring super stylish and excessive motion graphics where the text 'I'm hungry' appears"
+    },
+    "targetModels": [
+      "gpt-image"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative_display",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

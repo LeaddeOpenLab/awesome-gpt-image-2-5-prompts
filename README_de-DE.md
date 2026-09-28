@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**199** Prompts · Zuletzt hinzugefügt: **2026-09-23**
+**203** Prompts · Zuletzt hinzugefügt: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografie · Landschaft / Natur · Veröffentlicht
 
 ```text
 Foto einer Waldlichtung mit viel grünem Blattwerk, sehr detailliert
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2104048382268297647"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2104048382268297647)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2104048382268297647-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2104379061321490730"></a>
+
+### Übersetzung läuft
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Originalbeitrag](https://x.com/CyberTotal2026/status/2104379061321490730)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2104379061321490730-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2791,6 +2835,28 @@ Hochauflösendes Porträt eines 23-jährigen südasiatischen Mannes mit geschlos
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2104171596005167311"></a>
+
+### Übersetzung läuft
+
+Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Originalbeitrag](https://x.com/Chengzilhy/status/2104171596005167311)
+
+Comic / Storyboard · Kinematisch / Filmstill · Anime / Manga · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2104171596005167311.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2102633733564363002"></a>
 
@@ -5661,6 +5727,30 @@ Charakter · Veröffentlicht
 
 ```text
 Verwende das beigefügte Bild als Referenz für das Fotokonzept. Behalte das Belichtungsverhältnis, die Lichtrichtung, die Textur der Kleidung und den Kompositionsrhythmus bei; entwirf die Figur und das thematische Farbschema neu. Die Person ist ein Erwachsener; kopiere nicht das Gesicht der Referenzperson. Nach der Generierung im Vergleich zum Originalbild prüfen: Wurde eigenmächtig die Beleuchtung verändert, die Kleidung dicker gemacht oder die Haut übermäßig glatt retuschiert?
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2104120834155856211"></a>
+
+### Übersetzung läuft
+
+Autor：[@\_3912657840](https://x.com/_3912657840) · [Originalbeitrag](https://x.com/_3912657840/status/2104120834155856211)
+
+Sonstige · Veröffentlicht
+
+Originalbeitrag：[@\_3912657840](https://x.com/_3912657840) · [Originalbeitrag](https://x.com/_3912657840/status/2103775693742178353)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2104120834155856211.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**199** Prompts · Última adição: **2026-09-23**
+**203** Prompts · Última adição: **2026-09-28**
 
 <a name="catalog"></a>
 
@@ -628,6 +628,50 @@ Fotografia · Paisagem / Natureza · Publicado
 
 ```text
 Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2104048382268297647"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2104048382268297647)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2104048382268297647-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2104379061321490730"></a>
+
+### Tradução em andamento
+
+Autor：[@CyberTotal2026](https://x.com/CyberTotal2026) · [Publicação original](https://x.com/CyberTotal2026/status/2104379061321490730)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2104379061321490730-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2809,6 +2853,28 @@ Retrato em alta resolução de um homem do sul da Ásia de 23 anos com os olhos 
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2104171596005167311"></a>
+
+### Tradução em andamento
+
+Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Publicação original](https://x.com/Chengzilhy/status/2104171596005167311)
+
+Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Anime / Mangá · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2104171596005167311.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2102633733564363002"></a>
 
@@ -5653,6 +5719,30 @@ Personagem · Publicado
 
 ```text
 Use a imagem anexada como referência para o plano fotográfico. Mantenha a relação de exposição, a direção da luz, a textura dos tecidos e o ritmo de composição; redesenhe o personagem e a paleta de cores temática. O personagem deve ser um adulto, sem copiar o rosto da pessoa de referência. Após a geração, compare com a imagem original para verificar: a iluminação foi alterada arbitrariamente, as roupas ficaram mais grossas ou a pele foi excessivamente suavizada?
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2104120834155856211"></a>
+
+### Tradução em andamento
+
+Autor：[@\_3912657840](https://x.com/_3912657840) · [Publicação original](https://x.com/_3912657840/status/2104120834155856211)
+
+Outros · Publicado
+
+Publicação original：[@\_3912657840](https://x.com/_3912657840) · [Publicação original](https://x.com/_3912657840/status/2103775693742178353)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2104120834155856211.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)
