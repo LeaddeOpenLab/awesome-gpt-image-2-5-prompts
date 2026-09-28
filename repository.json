@@ -1,0 +1,34 @@
+{
+  "model": "image2.5",
+  "name": "ChatGPT Images 2.5 / GPT-Image-2.5",
+  "slug": "awesome-gpt-image-2-5-prompts",
+  "oldSlug": "awesome-prompts-image2.5",
+  "description": "OpenAI ChatGPT Images 2.5 and GPT-Image-2.5 generation and editing prompts, with verified platform, model version and image results.",
+  "topics": [
+    "openai",
+    "gpt-image-2-5",
+    "chatgpt-images",
+    "image-generation",
+    "image-editing",
+    "prompts"
+  ],
+  "categories": [
+    "product-photography",
+    "posters-typography",
+    "illustration",
+    "portraits",
+    "image-editing"
+  ],
+  "searches": [
+    "gpt image 2.5 prompts",
+    "chatgpt images prompts",
+    "gpt image editing",
+    "chatgpt product photography",
+    "gpt image poster",
+    "gpt image reference images"
+  ],
+  "source": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+  "canonicalUrl": "https://github.com/LeaddeOpenLab/awesome-gpt-image-2-5-prompts",
+  "verifiedCases": 0,
+  "pendingCases": 210
+}
